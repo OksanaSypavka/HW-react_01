@@ -1,10 +1,8 @@
 {
-  "name": "HW-react_01
-",
+  "name": "HW-react_01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://goitacademy.github.io/HW-react_01
-/",
+  "homepage": "https://goitacademy.github.io/HW-react_01",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
